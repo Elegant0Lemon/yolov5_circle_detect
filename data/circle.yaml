@@ -1,0 +1,8 @@
+ # 上面那三个txt文件的位置
+ train: D:\yolov5-7.0\datasets\ImageSets\train
+ val: D:\yolov5-7.0\datasets\ImageSets\val
+ test: D:\yolov5-7.0\datasets\ImageSets\test
+ # number of classes
+ nc: 3   # 修改为自己的类别数量
+ # class names
+ names: ["script", "inhibition zone", "culture dish"]   # 自己来的类别名称
